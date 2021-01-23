@@ -82,7 +82,7 @@ DATABASES = {
         'PORT': 3306,
         'NAME': 'booksforyoudb',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': '123456',
     },
     'OPTION': {
         'charset': 'utf8mb4',
